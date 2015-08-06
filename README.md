@@ -42,7 +42,7 @@ Write a single player game of Rock Paper Scissors
 
 Add an accumulative tally 
 
-The objective is store each game and result in a file that is saved (persisted). 
+The objective is to store each game and result in a file that is saved (persisted). 
 
 * Log each game to a file
   * including the players choice, the computers choice, and the result

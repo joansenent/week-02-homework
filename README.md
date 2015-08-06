@@ -12,7 +12,7 @@ Rules:
 
 http://boardgames.about.com/od/partygame1/a/rps_rules.htm
 
-![Image of RPS Rules](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/2000px-Rock-paper-scissors.svg.png =250x)
+![Image of RPS Rules](http://lh3.googleusercontent.com/-Mf67STmYamM/VUmv1_VyKDI/AAAAAAAAEBM/LstIM_gRvUU/Rock_paper_scissors%25255B6%25255D.jpg?imgmax=800)
 
 
 ### Step 0

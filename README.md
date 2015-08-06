@@ -12,6 +12,9 @@ Rules:
 
 http://boardgames.about.com/od/partygame1/a/rps_rules.htm
 
+![Image of RPS Rules](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/2000px-Rock-paper-scissors.svg.png)
+
+
 ### Step 0
 
 * If you get stuck, please ask on Slack: https://tiy-rails-1507.slack.com/messages/general/

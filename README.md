@@ -15,7 +15,7 @@ http://boardgames.about.com/od/partygame1/a/rps_rules.htm
 
 ### Step 0
 
-Introduction
+Preamble 
 
 * If you get stuck, please ask on Slack: https://tiy-rails-1507.slack.com/messages/general/
   * if you have a question you can be sure others also have the same one

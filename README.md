@@ -12,7 +12,6 @@ Rules:
 
 http://boardgames.about.com/od/partygame1/a/rps_rules.htm
 
-
 ### Step 0
 
 * If you get stuck, please ask on Slack: https://tiy-rails-1507.slack.com/messages/general/
@@ -38,7 +37,6 @@ Write a single player game of Rock Paper Scissors
 * the computer should make a random choice
 * the game should tell the player the result of the game
 * keep playing rounds until the user decides to exit
-
 
 ### Step 2
 

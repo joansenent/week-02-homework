@@ -23,7 +23,7 @@ http://boardgames.about.com/od/partygame1/a/rps_rules.htm
   * this is so that I can review your work
   * it will also help others who can take a peak to see your work
 * Don't leave it to 10pm on Sunday night
-  * I won't have to review your code
+  * I won't have time to review your code
   * the more times you commit to GitHub, the more help you can get
 * Unit test what you can, but don't stress about this
   * This is not an exercise in unit testing

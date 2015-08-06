@@ -31,12 +31,13 @@ http://boardgames.about.com/od/partygame1/a/rps_rules.htm
 ### Step 1
 
 Write a single player game of Rock Paper Scissors 
+* this is one human player against the computer aka your bot
 * this should be a console application
   * just like everything else we have done so far
   * use puts, gets etc
 * the computer should make a random choice
-* the game should tell the player who one
-* keep playing until the user decides to exit
+* the game should tell the player the result of the game
+* keep playing rounds until the user decides to exit
 
 
 ### Step 2
@@ -50,13 +51,13 @@ The objective is store each game and result in a file that is saved (persisted).
 * At the end of each game show some stats e.g.
   * how many times the player has won, lost and drawn
   * how many times the player has chosen Rock, Paper and Scissors
+* These stats saved to a file and are not lost when the player chooses to exit
 
 ### Bonus!
 
-Make your Rock Paper Scissors program smarter!
+Make your Rock Paper Scissors bot smarter!
 
-Make your program (aka your bot) use some strategies...
-
+* Make your program use some strategies
 * Use the log file to try and make decisions on what would be the best next move for the computer to make
   * Use ideas from here: http://www.ankeshkothari.com/how-to-win-at-rock-paper-scissors/
 
